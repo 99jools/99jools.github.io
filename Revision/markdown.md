@@ -1,5 +1,5 @@
 ---
-title:test
+title: test
 ---
 
 #Heading 1
