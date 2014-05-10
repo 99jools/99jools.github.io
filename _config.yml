@@ -4,5 +4,6 @@ permalinks: pretty
 
 markdown: kramdown
 
+markdown: kramdown
 kramdown:
-  input: GFM
+  use_coderay: true
