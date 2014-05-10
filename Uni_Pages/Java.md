@@ -1,3 +1,8 @@
+---
+layout: default
+title: Java
+---
+
 #Software Workshop 2
 
 ##Recursive Programming and Data Structures
