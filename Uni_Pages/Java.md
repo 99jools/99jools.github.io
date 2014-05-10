@@ -18,13 +18,22 @@ title: Java
 
 
 
-###Collection classes and Java Type Systems
+###Collection classes 
 
 #####Sets and Maps
 
 #####Interfaces
 
+###Java Type System
+
 #####Subtyping
+
+Liskov Substitution Principle
+
+    A <: B if, whenever B type objects are needed, a type A object can be used
+    
+Remember:   A <: B __does not mean that__ List<A> <: List<B>
+
 
 #####Generics
 
@@ -63,31 +72,7 @@ or alternatively
 ```java
     myThread.interrupt() //generates an InterruptedException in myThread
 ```
-
-
-######Interruption
-
-Need to allow for threads to be interrupted - does this by adding __throws InterruptedException__to method declaration.
-  
-This is then caught as follows:
-
-```java
-public void run() {
-
-    try{
-
-      //method body goes here
-
-    }
-
-    catch (InterruptedException e)  {
-
-      //perform clean up
-
-   }
- }
-
-```
+See [thread example](http://docs.oracle.com/javase/tutorial/essential/concurrency/simple.html) in Java Tutorials
 
 
 ####Synchronized
@@ -129,11 +114,11 @@ Socket commands
 
  * Server side:
 
- ```
+```java
 ServerSocket listener = new ServerSocket(8787);  //port number goes in here
     while(true){
 	Socket clientSocket = listener.accept();  	//gets a new socket for the client connection
-	myThread client = new ClientHandler(clientSocket, spr);					
+	ThreadA client = new ClientHandler(clientSocket, spr);					
 	Thread t = new Thread(client);
 	t.start();	
     } // end while
