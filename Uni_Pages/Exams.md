@@ -10,8 +10,8 @@ title: Exams
 | Module             | Exam Date|Revision Notes | Past Papers |
 | ------------------ |:--------:| :-------------:| ----------- 
 |[Software Workshop 1](https://www.cs.bham.ac.uk/internal/courses/java/msc/ )   | Wed 7th May| pdf| [2013](PastPapers/A2048712.pdf)    [2011](PastPapers/A2048710.pdf)   <br>[2010](PastPapers/A2048709.pdf)  [2009](PastPapers/A2048708.pdf)  <br>[2008](PastPapers/A2048707.pdf)   [2007](PastPapers/A2048706.pdf) <br>[2006](PastPapers/A2048705.pdf)   [2005](PastPapers/A2048704.pdf) <br>[sample](https://www.cs.bham.ac.uk/internal/courses/java/msc/local/java13.pdf)|
-|[Software Workshop 2](https://www.cs.bham.ac.uk/internal/courses/java/msc/sem2)|Mon 12th May <br> **(pm)**|[HTML] (/Java.html)| see 1 |
-|[Evaluation Methods & Statistics](https://canvas.bham.ac.uk/courses/2032)|Wed 14th May <br> **(pm)**|pdf  [HTML] (/EMS.html) | [2012](PastPapers/EMS12.pdf)|
+|[Software Workshop 2](https://www.cs.bham.ac.uk/internal/courses/java/msc/sem2)|Mon 12th May <br> **(pm)**|[HTML](/Java.html)| see 1 |
+|[Evaluation Methods & Statistics](https://canvas.bham.ac.uk/courses/2032)|Wed 14th May <br> **(pm)**|pdf  [HTML](/EMS.html) | [2012](PastPapers/EMS12.pdf)|
 |[Intro to Comp Sci](https://canvas.bham.ac.uk/courses/1984)|Mon 19th May <br> **(pm)**|pdf | [2012](PastPapers/Intro12.pdf) <br>[2010](PastPapers/Intro10.pdf) <br>[2009](PastPapers/Intro09.pdf)|
 |[Software Engineering](http://www.cs.bham.ac.uk/~rzb/teachingFSE2013.htm)|Wed 21st May  <br> **(am)**|pdf | [2012](PastPapers/SE12.pdf) <br>[2010](PastPapers/SE10.pdf)|
 |[Databases](http://www.cs.bham.ac.uk/~jab/Modules/Databases/13-14/)|Fri 30th May <br> **(am)**|pdf | [2012](PastPapers/DB12.pdf) <br>[2010](PastPapers/DB10.pdf) <br>[2009](PastPapers/DB09.pdf)|
