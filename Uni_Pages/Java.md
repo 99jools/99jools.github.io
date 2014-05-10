@@ -38,7 +38,7 @@ public class ThreadA extends Thread {
 
 
 ######Interruption
-Need to allow for threads to be interrupted - does this by adding __`throws InterruptedException__` to method declaration.
+Need to allow for threads to be interrupted - does this by adding __throws InterruptedException__to method declaration.
 
 This is then caught as follows:
 
