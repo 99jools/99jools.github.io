@@ -37,6 +37,13 @@ title: Java
 
 ###Threads and Networks
 
+
+Socket commands
+
+
+ * Server side - `ServerSocket ss = new ServerSocket();`
+ * Client side - `Socket cs = new Socket();`
+
 ######Syntax for thread class
 
 
@@ -69,29 +76,17 @@ public void run() {
 
     try{
 
-
-
       //method body goes here
-
-
 
     }
 
     catch (InterruptedException e)  {
 
-
-
       //perform clean up
 
-
-
-    }
-
-
-
+   }
+ 
 }
-
-
 
 ```
 
@@ -123,6 +118,8 @@ Need to make sure that I can spot deadlock in code as well as describing with a 
 
 
 See [Deadlock](http://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html) in Java Tutorials
+
+
 
 
 
