@@ -4,11 +4,6 @@ title: Java
 ---
 
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
 ##Software Workshop 2
 
 ###Recursive Programming and Data Structures
@@ -43,13 +38,6 @@ alert(s);
 
 ###Threads 
 
-######Key methods
- * `run()
-
-
-######Syntax for thread class
-
-
 
 ```java
 
@@ -62,17 +50,19 @@ public class ThreadA extends Thread throws InterruptedException  {
 ```
 
 The thread can be started  and stopped as follows:
-```
+```java
     ThreadA myThread = new ThreadA();
     myThread.start();
-```   
+or 
 
-
-    `myThread.join();  //makes this thread wait until myThread has finished executing`
+    myThread.join();  //makes this thread wait until myThread has finished executing`
+```
 
 or alternatively
-    `myThread.interrup() //generates an InterruptedException in myTHread
 
+```java
+    myThread.interrupt() //generates an InterruptedException in myThread
+```
 
 
 ######Interruption
@@ -110,11 +100,11 @@ public void run() {
 
  * using a 
 
-``` 
+```java
     synchronized(myObject){
 	//some stuff in here
-     }` 
-``
+     }
+```
 only locks myObject whilst the statements between the { } are executing.  __Need to make sure I understand the example on Tutorials website__
 
  * it is not possible for two synchronized methods _of the same object_ to execute at the same time
