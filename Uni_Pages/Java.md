@@ -3,6 +3,12 @@ layout: default
 title: Java
 ---
 
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
 ##Software Workshop 2
 
 ###Recursive Programming and Data Structures
