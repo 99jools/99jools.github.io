@@ -28,12 +28,14 @@ title: Software_Engineering
  1. Each increment adds new functionality
 
 Advantages
- * Job satisfaction for developers
- * Constant curstomer feedback
- * Can reduce risk
- * Can generate revenue earlier
+
+* Job satisfaction for developers
+* Constant curstomer feedback
+* Can reduce risk
+* Can generate revenue earlier
 
 Disadvantages
+* none listed
 
 ####Spiral
 
