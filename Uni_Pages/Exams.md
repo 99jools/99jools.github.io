@@ -17,6 +17,6 @@ title: Exams
 |[Databases](http://www.cs.bham.ac.uk/~jab/Modules/Databases/13-14/)|Fri 30th May <br> **(am)**|pdf | [2012](PastPapers/DB12.pdf) <br>[2010](PastPapers/DB10.pdf) <br>[2009](PastPapers/DB09.pdf)|
 |[Cryptography](http://www.cs.bham.ac.uk/~exr/teaching/lectures/crypto/13_14/)|Mon 2nd June <br> **(pm)** |pdf | [2012](PastPapers/Crypt12.pdf) <br>[2010](PastPapers/Crypt10.pdf) <br>[2009](PastPapers/Crypt09.pdf)<br>[2008](PastPapers/Crypt08.pdf) <br>[2007](PastPapers/Crypt07.pdf)|
 |[Data Structures](https://canvas.bham.ac.uk/courses/2076)<br>[Notes from Foundations](http://www.cs.bham.ac.uk/~jxb/FCS/foundations.pdf)|Tues 3nd June <br> **(am)**  |pdf | [2012](PastPapers/DS12.pdf) <br>[2010](PastPapers/DS10.pdf) <br>[2009](PastPapers/DS09.pdf)|
-|[Operating Systems](http://www.cs.bham.ac.uk/~bxb/Teaching.html#osan13-14) <br> [Os consolidated](Notes/Operating Systems slides.pdf) <br> [Networking consolidated](Notes/Networking slides.pdf)|Wed 4th June <br> **(am)** |pdf | none|
+|[Operating Systems](http://www.cs.bham.ac.uk/~bxb/Teaching.html#osan13-14) <br> [Consolidated](Notes/Operating Systems notes.pdf) |Wed 4th June <br> **(am)** |pdf | none|
 
 
